@@ -1,5 +1,4 @@
-###This repository was set up for the 1st assignment of the "Getting and Cleaning Data" subject 
-###as part of the Data Science specialisation on Coursera.
+###This repository was set up for the 1st assignment of the "Getting and Cleaning Data" subject as part of the Data Science specialisation on Coursera.
 
 ### Details of the run_analysis.r script
 The run_analysis.r script uses the dataset found at the following web site:
